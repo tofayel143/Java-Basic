@@ -4,7 +4,7 @@
 This README provides Java code examples and methods to perform various tasks, including calculating averages, finding the smallest number, working with ArrayLists, comparing strings, and performing basic arithmetic operations. Additionally, it demonstrates how to call these methods from another class.
 
 
-# Introduction
+## Introduction
 
 Java is a popular and versatile programming language known for its portability, security, and wide range of applications. This guide will cover the fundamental concepts and syntax of Java.
 ## Installation
