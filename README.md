@@ -40,7 +40,7 @@ After installation, we get started with this project. Clone this repository and 
 This repository includes Java code examples for getting started with automation testing, covering essential methods and basic operations.
 
 
-### 1. Java Methods and Programs
+## 1. Java Methods and Programs
 
 #### 1. Java Method to Compute the Average of Three Numbers
 
